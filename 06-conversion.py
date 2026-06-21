@@ -1,0 +1,6 @@
+resultado=input("Ingresa tu EDAD:")
+numero=int(resultado)
+print(type(resultado))
+print(int(resultado)+22)
+print(numero)
+bool("")
